@@ -1,2 +1,9 @@
-# proyecto3_frontend_angular
-Codigo fuente del curso de proyecto 3 relacionado al frontend con Angular
+# set nodejs version
+nvm install 20.12.2
+nvm use 20.12.2
+
+# install node modules
+npm install
+
+# install node modules
+npm start
